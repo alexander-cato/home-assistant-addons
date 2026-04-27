@@ -1,0 +1,94 @@
+<component name="InspectionProjectProfileManager">
+  <profile version="1.0">
+    <option name="myName" value="Project Default" />
+    <inspection_tool class="APINotesIssue" enabled="false" level="WARNING" enabled_by_default="false" />
+    <inspection_tool class="ARCAndProperties" enabled="false" level="WARNING" enabled_by_default="false" />
+    <inspection_tool class="ARCCastingRules" enabled="false" level="WARNING" enabled_by_default="false" />
+    <inspection_tool class="ARCParseIssue" enabled="false" level="WARNING" enabled_by_default="false" />
+    <inspection_tool class="ARCRestrictions" enabled="false" level="WARNING" enabled_by_default="false" />
+    <inspection_tool class="ARCRetainCycle" enabled="false" level="WARNING" enabled_by_default="false" />
+    <inspection_tool class="ARCSemanticIssue" enabled="false" level="WARNING" enabled_by_default="false" />
+    <inspection_tool class="ARCWeakReferences" enabled="false" level="WARNING" enabled_by_default="false" />
+    <inspection_tool class="ASTDeserializationIssue" enabled="false" level="WARNING" enabled_by_default="false" />
+    <inspection_tool class="ASTSerializationIssue" enabled="false" level="WARNING" enabled_by_default="false" />
+    <inspection_tool class="AbstractValueInTrait" enabled="true" level="WARNING" enabled_by_default="true" />
+    <inspection_tool class="AutoTupling" enabled="true" level="WARNING" enabled_by_default="true" />
+    <inspection_tool class="CocoaAPIIssue" enabled="false" level="WARNING" enabled_by_default="false" />
+    <inspection_tool class="ComparingLength" enabled="true" level="WARNING" enabled_by_default="true" />
+    <inspection_tool class="ConceptsIssue" enabled="false" level="WARNING" enabled_by_default="false" />
+    <inspection_tool class="CoroutinesIssue" enabled="false" level="WARNING" enabled_by_default="false" />
+    <inspection_tool class="DependencyDirectiveSourceMinimizationIssue" enabled="false" level="WARNING" enabled_by_default="false" />
+    <inspection_tool class="DeprecatedPackageObject" enabled="true" level="WARNING" enabled_by_default="true" />
+    <inspection_tool class="DocumentationIssue" enabled="false" level="WARNING" enabled_by_default="false" />
+    <inspection_tool class="EmptyCategory" enabled="false" level="WARNING" enabled_by_default="false" />
+    <inspection_tool class="FakeIssue0" enabled="false" level="WARNING" enabled_by_default="false" />
+    <inspection_tool class="FakeIssue1" enabled="false" level="WARNING" enabled_by_default="false" />
+    <inspection_tool class="FakeIssue10" enabled="false" level="WARNING" enabled_by_default="false" />
+    <inspection_tool class="FakeIssue11" enabled="false" level="WARNING" enabled_by_default="false" />
+    <inspection_tool class="FakeIssue12" enabled="false" level="WARNING" enabled_by_default="false" />
+    <inspection_tool class="FakeIssue13" enabled="false" level="WARNING" enabled_by_default="false" />
+    <inspection_tool class="FakeIssue14" enabled="false" level="WARNING" enabled_by_default="false" />
+    <inspection_tool class="FakeIssue15" enabled="false" level="WARNING" enabled_by_default="false" />
+    <inspection_tool class="FakeIssue16" enabled="false" level="WARNING" enabled_by_default="false" />
+    <inspection_tool class="FakeIssue17" enabled="false" level="WARNING" enabled_by_default="false" />
+    <inspection_tool class="FakeIssue18" enabled="false" level="WARNING" enabled_by_default="false" />
+    <inspection_tool class="FakeIssue19" enabled="false" level="WARNING" enabled_by_default="false" />
+    <inspection_tool class="FakeIssue2" enabled="false" level="WARNING" enabled_by_default="false" />
+    <inspection_tool class="FakeIssue20" enabled="false" level="WARNING" enabled_by_default="false" />
+    <inspection_tool class="FakeIssue21" enabled="false" level="WARNING" enabled_by_default="false" />
+    <inspection_tool class="FakeIssue22" enabled="false" level="WARNING" enabled_by_default="false" />
+    <inspection_tool class="FakeIssue23" enabled="false" level="WARNING" enabled_by_default="false" />
+    <inspection_tool class="FakeIssue24" enabled="false" level="WARNING" enabled_by_default="false" />
+    <inspection_tool class="FakeIssue25" enabled="false" level="WARNING" enabled_by_default="false" />
+    <inspection_tool class="FakeIssue26" enabled="false" level="WARNING" enabled_by_default="false" />
+    <inspection_tool class="FakeIssue27" enabled="false" level="WARNING" enabled_by_default="false" />
+    <inspection_tool class="FakeIssue28" enabled="false" level="WARNING" enabled_by_default="false" />
+    <inspection_tool class="FakeIssue29" enabled="false" level="WARNING" enabled_by_default="false" />
+    <inspection_tool class="FakeIssue3" enabled="false" level="WARNING" enabled_by_default="false" />
+    <inspection_tool class="FakeIssue30" enabled="false" level="WARNING" enabled_by_default="false" />
+    <inspection_tool class="FakeIssue4" enabled="false" level="WARNING" enabled_by_default="false" />
+    <inspection_tool class="FakeIssue5" enabled="false" level="WARNING" enabled_by_default="false" />
+    <inspection_tool class="FakeIssue6" enabled="false" level="WARNING" enabled_by_default="false" />
+    <inspection_tool class="FakeIssue7" enabled="false" level="WARNING" enabled_by_default="false" />
+    <inspection_tool class="FakeIssue8" enabled="false" level="WARNING" enabled_by_default="false" />
+    <inspection_tool class="FakeIssue9" enabled="false" level="WARNING" enabled_by_default="false" />
+    <inspection_tool class="FilterSetContains" enabled="true" level="WARNING" enabled_by_default="true" />
+    <inspection_tool class="GenericsIssue" enabled="false" level="WARNING" enabled_by_default="false" />
+    <inspection_tool class="GoLinter" enabled="true" level="WARNING" enabled_by_default="true" />
+    <inspection_tool class="InlineAssemblyIssue" enabled="false" level="WARNING" enabled_by_default="false" />
+    <inspection_tool class="InstrumentationIssue" enabled="false" level="WARNING" enabled_by_default="false" />
+    <inspection_tool class="LambdaIssue" enabled="false" level="WARNING" enabled_by_default="false" />
+    <inspection_tool class="LegacyStringFormatting" enabled="true" level="WARNING" enabled_by_default="true" />
+    <inspection_tool class="LexicalOrPreprocessorIssue" enabled="false" level="WARNING" enabled_by_default="false" />
+    <inspection_tool class="MapGetOrElse" enabled="true" level="WARNING" enabled_by_default="true" />
+    <inspection_tool class="MarkInnerCaseObjectsAsFinal" enabled="true" level="WARNING" enabled_by_default="true" />
+    <inspection_tool class="ModulesIssue" enabled="false" level="WARNING" enabled_by_default="false" />
+    <inspection_tool class="NestedStatefulMonads" enabled="true" level="WARNING" enabled_by_default="true" />
+    <inspection_tool class="NoTargetNameAnnotationForOperatorLikeDefinition" enabled="true" level="WEAK WARNING" enabled_by_default="true" />
+    <inspection_tool class="NullabilityIssue" enabled="false" level="WARNING" enabled_by_default="false" />
+    <inspection_tool class="OCDFA" enabled="false" level="WARNING" enabled_by_default="false" />
+    <inspection_tool class="OCDFABatch" enabled="false" level="WARNING" enabled_by_default="false" />
+    <inspection_tool class="OCInconsistentNaming" enabled="true" level="WEAK WARNING" enabled_by_default="true" />
+    <inspection_tool class="OpenMPIssue" enabled="false" level="WARNING" enabled_by_default="false" />
+    <inspection_tool class="ParseIssue" enabled="false" level="WARNING" enabled_by_default="false" />
+    <inspection_tool class="PhpClassHasTooManyDeclaredMembersInspection" enabled="true" level="WEAK WARNING" enabled_by_default="true" />
+    <inspection_tool class="PhpComplexClassInspection" enabled="true" level="WEAK WARNING" enabled_by_default="true" />
+    <inspection_tool class="PhpComplexFunctionInspection" enabled="true" level="WEAK WARNING" enabled_by_default="true" />
+    <inspection_tool class="PhpFeatureEnvyLocalInspection" enabled="true" level="WEAK WARNING" enabled_by_default="true" />
+    <inspection_tool class="PhpFunctionCyclomaticComplexityInspection" enabled="true" level="WEAK WARNING" enabled_by_default="true" />
+    <inspection_tool class="PhpHalsteadMetricInspection" enabled="true" level="WEAK WARNING" enabled_by_default="true" />
+    <inspection_tool class="PhpLackOfCohesionInspection" enabled="true" level="WEAK WARNING" enabled_by_default="true" />
+    <inspection_tool class="PhpMemberCanBePulledUpInspection" enabled="true" level="WEAK WARNING" enabled_by_default="true" />
+    <inspection_tool class="PostfixMethodCall" enabled="true" level="WARNING" enabled_by_default="true" />
+    <inspection_tool class="RClosureAssignmentInspection" enabled="true" level="WARNING" enabled_by_default="true" />
+    <inspection_tool class="RNamingConventionInspection" enabled="true" level="WARNING" enabled_by_default="true" />
+    <inspection_tool class="RelatedResultTypeIssue" enabled="false" level="WARNING" enabled_by_default="false" />
+    <inspection_tool class="RelativeImport" enabled="true" level="WARNING" enabled_by_default="true" />
+    <inspection_tool class="SemanticIssue" enabled="false" level="WARNING" enabled_by_default="false" />
+    <inspection_tool class="SideEffectsInMonadicTransformation" enabled="true" level="WARNING" enabled_by_default="true" />
+    <inspection_tool class="SomeToOption" enabled="true" level="WARNING" enabled_by_default="true" />
+    <inspection_tool class="TsLint" enabled="true" level="WARNING" enabled_by_default="true" />
+    <inspection_tool class="VTableABIIssue" enabled="false" level="WARNING" enabled_by_default="false" />
+    <inspection_tool class="VariablePatternShadow" enabled="true" level="WARNING" enabled_by_default="true" />
+  </profile>
+</component>

@@ -1,0 +1,4 @@
+# https://developers.home-assistant.io/docs/add-ons/repository#repository-configuration
+name: Alexander Cato's Home Assistant add-ons repository
+url: 'https://github.com/alexander-cato/home-assistant-addons'
+maintainer: alexander-cato
